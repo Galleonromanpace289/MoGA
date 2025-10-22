@@ -7,7 +7,7 @@
 <a href="https://arxiv.org/pdf/2510.18692"><img alt="Build" src="https://img.shields.io/badge/Paper-MoGA-b31b1b.svg"></a>
 
 
-><p align="center"> <span style="color:#137cf3; font-family:Gill Sans">Weinan Jia</span>, <span style="color:#137cf3; font-family:Gill Sans">Yuning Lu<sup>+</sup></span>, <span style="color:#137cf3; font-family:Gill Sans">Mengqi Huang</span><br> <span style="color:#137cf3; font-family:Gill Sans">Hualiang Wang</span>, <span style="color:#137cf3; font-family:Gill Sans">Binyuan Huang</span>, <span style="color:#137cf3; font-family:Gill Sans">Nan Chen</span>, <span style="color:#137cf3; font-family:Gill Sans">Mu Liu</span>, <span style="color:#137cf3; font-family:Gill Sans">Jidong Jiang</span>, <span style="color:#137cf3; font-family:Gill Sans">Zhendong Mao<sup>+</sup></span></a> <br>
+><p align="center"> <span style="color:#137cf3; font-family:Gill Sans">Weinan Jia</span>, <span style="color:#137cf3; font-family:Gill Sans">Yuning Lu<sup>+</sup></span>, <span style="color:#137cf3; font-family:Gill Sans">Mengqi Huang</span>, <span style="color:#137cf3; font-family:Gill Sans">Hualiang Wang</span>, <span style="color:#137cf3; font-family:Gill Sans">Binyuan Huang</span><br> <span style="color:#137cf3; font-family:Gill Sans">Nan Chen</span>, <span style="color:#137cf3; font-family:Gill Sans">Mu Liu</span>, <span style="color:#137cf3; font-family:Gill Sans">Jidong Jiang</span>, <span style="color:#137cf3; font-family:Gill Sans">Zhendong Mao<sup>+</sup></span></a> <br>
 
 
 
